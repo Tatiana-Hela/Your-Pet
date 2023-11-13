@@ -9,6 +9,8 @@ function ClockIcon(props) {
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
+
+      
       <path
         d="M12.758 7v5l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
         stroke={props.color}
